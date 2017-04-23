@@ -1,0 +1,12 @@
+{
+    "socket": {
+        "host": "http://localhost:3000"
+    },
+    "amqp": {
+        "host": "amqp://192.168.1.46",
+        "port": "1234",
+        "username": "username",
+        "password": "password",
+        "exchange": "logs"
+    }
+}
